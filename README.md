@@ -1,6 +1,22 @@
 # NI Housing
 
-Machine-learning project on Northern Ireland house prices.
+An end-to-end data science project on Northern Ireland house prices, built entirely on official open data.
+
+- **Data pipeline:** downloads and validates the NI House Price Index, UK inflation, Census 2021 and ward
+  boundaries, with checks for missing quarters, bad downloads and data revisions.
+- **Analysis:** NI prices are about 5% below their 2007 peak in cash terms but about 45% below after inflation;
+  two council areas have passed their old peak.
+- **Forecasting with honest evaluation:** walk-forward backtests, model selection on held-out years, and a
+  real-time test on quarters published after every modelling choice. The finding is reported as it came out:
+  the model beats a "no change" forecast but not reliably a simple average.
+- **Neighbourhood price model:** predicts median prices across 462 wards from Census and location data
+  (typical error 7.5%, versus 15.6% for the average), estimates prices where none are published, and maps
+  which areas sell above or below what their features suggest.
+- **AI assistant:** a Claude-powered chat tool that answers questions by calling tools over the project's data,
+  with a 13-question automated eval covering facts, caveats and refusals.
+- **Tested:** 15 pytest tests, including checks that forecasts never see future data.
+
+![Ward maps](outputs/ward_maps.png)
 
 ## Data
 
@@ -136,7 +152,6 @@ Ravernet, Stranmillis and Hillsborough sell 27–34% above it; Sheriff's Mountai
 housing condition). The model also pulls the most expensive wards towards the average, so the top end is
 always "above".
 
-![Ward maps](outputs/ward_maps.png)
 
 ## Chat assistant
 
