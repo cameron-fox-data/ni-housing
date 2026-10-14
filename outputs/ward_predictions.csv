@@ -1,0 +1,463 @@
+ward_code,lgd,ward,price,price_years,km_to_belfast,predicted,gap_%
+N08000101,antrim and newtownabbey,abbey,143342.8,3,9.2,164356.6,-12.8
+N08000102,antrim and newtownabbey,aldergrove,204177.2,2,23.8,204978.7,-0.4
+N08000103,antrim and newtownabbey,antrim centre,207331.8,3,23.8,173650.0,19.4
+N08000104,antrim and newtownabbey,ballyclare east,152323.4,3,18.1,160652.6,-5.2
+N08000105,antrim and newtownabbey,ballyclare west,206424.6,3,18.4,205263.8,0.6
+N08000106,antrim and newtownabbey,ballyduff,156772.2,3,10.6,163992.1,-4.4
+N08000107,antrim and newtownabbey,ballyhenry,203704.3,2,9.7,229131.6,-11.1
+N08000108,antrim and newtownabbey,ballynure,220488.1,3,16.9,228879.4,-3.7
+N08000109,antrim and newtownabbey,ballyrobert,239267.3,3,15.1,230905.6,3.6
+N08000110,antrim and newtownabbey,burnthill,181734.1,3,10.2,169647.1,7.1
+N08000111,antrim and newtownabbey,carnmoney,179841.2,3,9.8,183450.1,-2.0
+N08000112,antrim and newtownabbey,carnmoney hill,145919.7,3,9.1,169930.6,-14.1
+N08000113,antrim and newtownabbey,clady,286405.0,2,12.2,255336.1,12.2
+N08000114,antrim and newtownabbey,collinbridge,226412.0,3,7.2,226674.5,-0.1
+N08000115,antrim and newtownabbey,cranfield,227435.8,1,30.2,229331.1,-0.8
+N08000116,antrim and newtownabbey,crumlin,167947.2,2,20.4,170785.8,-1.7
+N08000117,antrim and newtownabbey,doagh,205391.0,3,19.1,210644.2,-2.5
+N08000118,antrim and newtownabbey,fairview,178310.2,3,10.1,155653.6,14.6
+N08000119,antrim and newtownabbey,fountain hill,213061.3,3,21.5,203634.0,4.6
+N08000120,antrim and newtownabbey,glebe,175202.4,3,8.4,192584.6,-9.0
+N08000121,antrim and newtownabbey,glengormley,152498.3,3,8.9,161613.2,-5.6
+N08000122,antrim and newtownabbey,greystone,115146.2,3,20.7,125244.3,-8.1
+N08000123,antrim and newtownabbey,hightown,165019.9,3,8.6,174123.4,-5.2
+N08000124,antrim and newtownabbey,jordanstown,273838.9,2,11.8,303501.0,-9.8
+N08000125,antrim and newtownabbey,mallusk,237161.1,3,10.7,216161.8,9.7
+N08000126,antrim and newtownabbey,monkstown,198404.8,3,9.9,175146.9,13.3
+N08000127,antrim and newtownabbey,mossley,173043.2,3,12.4,169454.0,2.1
+N08000128,antrim and newtownabbey,o'neill,,0,7.7,129184.4,
+N08000129,antrim and newtownabbey,parkgate,342921.4,3,21.7,275774.6,24.3
+N08000130,antrim and newtownabbey,randalstown,167782.8,3,27.8,176848.0,-5.1
+N08000131,antrim and newtownabbey,rathcoole,107483.0,3,8.3,117521.4,-8.5
+N08000132,antrim and newtownabbey,rostulla,316255.6,3,10.5,324374.0,-2.5
+N08000133,antrim and newtownabbey,shilvodan,233924.2,1,27.4,242002.5,-3.3
+N08000134,antrim and newtownabbey,springfarm,187451.2,3,23.5,173169.8,8.2
+N08000135,antrim and newtownabbey,steeple,107981.0,3,22.4,114422.3,-5.6
+N08000136,antrim and newtownabbey,stiles,172914.0,3,21.3,150393.1,15.0
+N08000137,antrim and newtownabbey,templepatrick,264914.4,3,14.9,249169.3,6.3
+N08000138,antrim and newtownabbey,toome,,0,35.1,210758.1,
+N08000139,antrim and newtownabbey,valley,128699.7,3,6.8,155609.1,-17.3
+N08000140,antrim and newtownabbey,whitehouse,144243.3,3,7.8,177346.9,-18.7
+N08000201,armagh city banbridge and craigavon,aghagallon,219411.0,3,27.5,250799.3,-12.5
+N08000202,armagh city banbridge and craigavon,ballybay,123132.0,3,40.4,127437.5,-3.4
+N08000203,armagh city banbridge and craigavon,banbridge east,228761.6,3,34.2,205706.1,11.2
+N08000204,armagh city banbridge and craigavon,banbridge north,237303.1,3,33.6,209683.4,13.2
+N08000205,armagh city banbridge and craigavon,banbridge south,232586.3,3,36.2,193414.3,20.3
+N08000206,armagh city banbridge and craigavon,banbridge west,148007.5,3,35.9,143509.0,3.1
+N08000207,armagh city banbridge and craigavon,blackwatertown,182475.0,1,55.6,204254.1,-10.7
+N08000208,armagh city banbridge and craigavon,bleary,246645.9,3,35.1,224203.9,10.0
+N08000209,armagh city banbridge and craigavon,brownlow,174958.3,3,32.4,151754.3,15.3
+N08000210,armagh city banbridge and craigavon,cathedral,125780.8,3,54.5,138941.8,-9.5
+N08000211,armagh city banbridge and craigavon,corcrain,126658.4,3,38.4,119175.3,6.3
+N08000212,armagh city banbridge and craigavon,craigavon centre,191531.8,3,34.9,191284.3,0.1
+N08000213,armagh city banbridge and craigavon,demesne,167975.5,3,54.6,187998.3,-10.7
+N08000214,armagh city banbridge and craigavon,derrytrasna,188107.1,3,34.8,215397.5,-12.7
+N08000215,armagh city banbridge and craigavon,donaghcloney,195752.4,3,29.9,226254.8,-13.5
+N08000216,armagh city banbridge and craigavon,dromore,185700.6,3,24.5,205185.5,-9.5
+N08000217,armagh city banbridge and craigavon,gilford,184769.4,3,36.5,185923.7,-0.6
+N08000218,armagh city banbridge and craigavon,gransha,242663.4,3,29.1,220394.8,10.1
+N08000219,armagh city banbridge and craigavon,hamiltonsbawn,177257.9,3,48.5,195798.9,-9.5
+N08000220,armagh city banbridge and craigavon,keady,130500.0,1,66.6,167666.8,-22.2
+N08000221,armagh city banbridge and craigavon,kernan,189293.4,3,35.1,194780.0,-2.8
+N08000222,armagh city banbridge and craigavon,killycomain,116515.7,3,37.9,138973.4,-16.2
+N08000223,armagh city banbridge and craigavon,knocknashane,192331.5,3,29.7,188456.8,2.1
+N08000224,armagh city banbridge and craigavon,lough road,172754.3,3,30.0,170318.5,1.4
+N08000225,armagh city banbridge and craigavon,loughbrickland,197099.3,1,40.3,207469.1,-5.0
+N08000226,armagh city banbridge and craigavon,loughgall,215910.0,1,46.1,218925.6,-1.4
+N08000227,armagh city banbridge and craigavon,magheralin,212177.1,3,26.4,224257.6,-5.4
+N08000228,armagh city banbridge and craigavon,mahon,157624.2,3,39.8,171746.3,-8.2
+N08000229,armagh city banbridge and craigavon,markethill,193895.8,2,47.8,203848.6,-4.9
+N08000230,armagh city banbridge and craigavon,mourneview,123182.5,3,30.7,127507.1,-3.4
+N08000231,armagh city banbridge and craigavon,navan,,0,62.3,180310.6,
+N08000232,armagh city banbridge and craigavon,parklake,112860.8,3,29.0,129562.3,-12.9
+N08000233,armagh city banbridge and craigavon,quilly,195303.4,3,27.5,207849.7,-6.0
+N08000234,armagh city banbridge and craigavon,rathfriland,174689.0,2,38.9,170570.8,2.4
+N08000235,armagh city banbridge and craigavon,richhill,207649.5,3,46.8,224292.3,-7.4
+N08000236,armagh city banbridge and craigavon,seagahan,,0,58.7,199058.8,
+N08000237,armagh city banbridge and craigavon,shankill,119705.2,3,30.8,131878.0,-9.2
+N08000238,armagh city banbridge and craigavon,tandragee,149139.4,3,41.1,162499.2,-8.2
+N08000239,armagh city banbridge and craigavon,the birches,200937.4,3,40.8,184255.1,9.1
+N08000240,armagh city banbridge and craigavon,the mall,205578.2,3,52.9,202248.2,1.6
+N08000241,armagh city banbridge and craigavon,waringstown,186020.9,3,30.5,212560.7,-12.5
+N08000301,belfast,andersonstown,187821.0,3,4.6,148469.5,26.5
+N08000302,belfast,ardoyne,103745.8,3,2.8,107726.1,-3.7
+N08000303,belfast,ballygomartin,144298.3,3,3.7,148244.3,-2.7
+N08000304,belfast,ballymacarrett,148446.7,3,1.5,154726.1,-4.1
+N08000305,belfast,ballymurphy,,0,3.1,115965.3,
+N08000306,belfast,ballysillan,127252.0,3,4.4,154838.9,-17.8
+N08000307,belfast,beechmount,119247.6,3,2.4,107110.0,11.3
+N08000308,belfast,beersbridge,128295.8,3,2.3,130594.0,-1.8
+N08000309,belfast,bellevue,155462.6,3,6.1,183091.4,-15.1
+N08000310,belfast,belmont,269287.2,3,4.4,234858.9,14.7
+N08000311,belfast,belvoir,206073.0,3,5.0,210674.2,-2.2
+N08000312,belfast,blackstaff,117618.2,3,2.3,136877.4,-14.1
+N08000313,belfast,bloomfield,149255.1,3,3.0,150985.4,-1.1
+N08000314,belfast,cavehill,249074.6,3,5.1,286902.5,-13.2
+N08000315,belfast,central,176738.5,3,0.6,156860.3,12.7
+N08000316,belfast,chichester park,202688.1,3,3.7,182109.7,11.3
+N08000317,belfast,cliftonville,165769.8,3,3.3,161896.7,2.4
+N08000318,belfast,clonard,117851.5,3,2.1,119507.9,-1.4
+N08000319,belfast,collin glen,157082.3,3,6.0,145594.0,7.9
+N08000320,belfast,connswater,165355.8,3,2.8,157219.4,5.2
+N08000321,belfast,cregagh,190793.3,3,3.3,191850.5,-0.6
+N08000322,belfast,duncairn,152859.2,3,3.6,166739.8,-8.3
+N08000323,belfast,dunmurry,170714.1,3,6.8,216267.0,-21.1
+N08000324,belfast,falls,145000.0,1,1.1,111769.7,29.7
+N08000325,belfast,falls park,190473.9,3,3.4,174706.6,9.0
+N08000326,belfast,finaghy,234388.4,3,6.3,258719.4,-9.4
+N08000327,belfast,forth river,115957.3,3,4.9,137233.6,-15.5
+N08000328,belfast,fortwilliam,146397.9,3,3.3,148434.8,-1.4
+N08000329,belfast,garnerville,230178.7,3,5.6,259032.8,-11.1
+N08000330,belfast,gilnahirk,212689.0,3,6.2,205718.5,3.4
+N08000331,belfast,hillfoot,233957.7,3,4.3,254600.0,-8.1
+N08000332,belfast,innisfayle,186960.4,3,4.4,209638.6,-10.8
+N08000333,belfast,knock,262577.0,3,4.3,270752.3,-3.0
+N08000334,belfast,ladybrook,199027.4,3,5.9,173363.9,14.8
+N08000335,belfast,lagmore,198634.8,3,8.6,191596.3,3.7
+N08000336,belfast,legoniel,162977.6,3,5.8,147977.6,10.1
+N08000337,belfast,malone,360317.5,3,4.0,367461.0,-1.9
+N08000338,belfast,merok,198403.1,3,3.6,172933.2,14.7
+N08000339,belfast,musgrave,226768.9,3,4.7,222793.5,1.8
+N08000340,belfast,new lodge,114809.7,1,1.3,119483.4,-3.9
+N08000341,belfast,orangefield,221382.8,3,3.2,201706.2,9.8
+N08000342,belfast,ormeau,212527.7,3,1.8,196914.0,7.9
+N08000343,belfast,poleglass,,0,7.4,151389.5,
+N08000344,belfast,ravenhill,187775.9,3,2.3,225185.1,-16.6
+N08000345,belfast,rosetta,241313.9,3,2.9,270028.1,-10.6
+N08000346,belfast,sandown,218901.6,3,4.1,216716.7,1.0
+N08000347,belfast,shandon,246416.4,3,5.2,241675.2,2.0
+N08000348,belfast,shankill,129983.1,2,1.4,127259.9,2.1
+N08000349,belfast,shaw's road,172439.2,3,5.0,152087.2,13.4
+N08000350,belfast,stewartstown,193155.2,3,5.9,170759.9,13.1
+N08000351,belfast,stormont,324550.3,3,6.5,282745.8,14.8
+N08000352,belfast,stranmillis,332174.9,3,3.1,252274.2,31.7
+N08000353,belfast,sydenham,157633.8,3,3.9,152470.6,3.4
+N08000354,belfast,turf lodge,,0,4.4,128534.2,
+N08000355,belfast,twinbrook,147515.7,2,7.4,142641.7,3.4
+N08000356,belfast,upper malone,300724.0,3,5.7,263889.9,14.0
+N08000357,belfast,water works,133032.7,3,2.3,128578.0,3.5
+N08000358,belfast,windsor,201209.0,3,2.1,190122.8,5.8
+N08000359,belfast,woodstock,137992.4,3,1.6,135865.0,1.6
+N08000360,belfast,woodvale,87236.4,3,2.3,115814.7,-24.7
+N08000401,causeway coast and glens,aghadowey,289975.0,1,69.9,234062.2,23.9
+N08000402,causeway coast and glens,altahullion,197796.6,3,78.5,195861.4,1.0
+N08000403,causeway coast and glens,atlantic,254867.0,3,81.8,199193.6,27.9
+N08000404,causeway coast and glens,ballycastle,206060.7,3,70.6,189601.5,8.7
+N08000405,causeway coast and glens,ballykelly,,0,84.0,185716.1,
+N08000406,causeway coast and glens,ballymoney east,185963.8,3,64.7,155874.1,19.3
+N08000407,causeway coast and glens,ballymoney north,185267.9,3,65.4,173577.4,6.7
+N08000408,causeway coast and glens,ballymoney south,179328.7,2,62.4,176760.5,1.5
+N08000409,causeway coast and glens,castlerock,261803.4,3,80.9,215313.5,21.6
+N08000410,causeway coast and glens,churchland,212100.0,3,75.4,197580.1,7.3
+N08000411,causeway coast and glens,clogh mills,,0,55.5,198932.2,
+N08000412,causeway coast and glens,coolessan,,0,81.8,117071.4,
+N08000413,causeway coast and glens,dervock,197475.0,1,66.9,210742.2,-6.3
+N08000414,causeway coast and glens,drumsurn,179393.0,2,75.9,198326.6,-9.5
+N08000415,causeway coast and glens,dundooan,257085.1,3,75.4,214907.6,19.6
+N08000416,causeway coast and glens,dungiven,,0,68.9,193075.8,
+N08000417,causeway coast and glens,dunloy,,0,57.2,207948.9,
+N08000418,causeway coast and glens,feeny,,0,75.3,179041.1,
+N08000419,causeway coast and glens,garvagh,,0,64.9,203510.3,
+N08000420,causeway coast and glens,giant's causeway,215220.6,3,74.8,178233.9,20.8
+N08000421,causeway coast and glens,greysteel,167107.0,3,88.5,161781.5,3.3
+N08000422,causeway coast and glens,greystone,188886.0,3,81.2,190989.9,-1.1
+N08000423,causeway coast and glens,hopefield,279283.0,3,80.5,236538.8,18.1
+N08000424,causeway coast and glens,kilrea,179385.7,2,60.4,208903.1,-14.1
+N08000425,causeway coast and glens,kinbane,240101.4,3,70.9,222493.5,7.9
+N08000426,causeway coast and glens,loughguile and stranocum,,0,58.4,202007.0,
+N08000427,causeway coast and glens,lurigethan,,0,49.9,217344.2,
+N08000428,causeway coast and glens,macosquin,242583.8,2,78.2,210068.6,15.5
+N08000429,causeway coast and glens,magilligan,,0,84.1,205704.3,
+N08000430,causeway coast and glens,mountsandel,179037.0,3,75.4,152338.2,17.5
+N08000431,causeway coast and glens,portrush and dunluce,234897.9,3,78.9,188528.0,24.6
+N08000432,causeway coast and glens,portstewart,268273.8,3,82.0,246562.9,8.8
+N08000433,causeway coast and glens,quarry,163413.4,2,76.1,153896.0,6.2
+N08000434,causeway coast and glens,rasharkin,175145.9,2,56.4,203960.8,-14.1
+N08000435,causeway coast and glens,roeside,133622.1,2,82.4,161841.5,-17.4
+N08000436,causeway coast and glens,route,194876.8,3,67.1,205494.8,-5.2
+N08000437,causeway coast and glens,torr head and rathlin,,0,62.1,213827.5,
+N08000438,causeway coast and glens,university,195470.5,3,77.6,157304.0,24.3
+N08000439,causeway coast and glens,waterside,171463.7,3,76.7,173998.4,-1.5
+N08000440,causeway coast and glens,windy hall,213683.2,3,73.4,202465.7,5.5
+N08000501,derry city and strabane,artigarvan,,0,97.6,205676.6,
+N08000502,derry city and strabane,ballycolman,,0,101.7,151407.4,
+N08000503,derry city and strabane,ballymagroarty,,0,103.4,189234.3,
+N08000504,derry city and strabane,brandywell,122746.2,2,100.1,114975.0,6.8
+N08000505,derry city and strabane,carn hill,,0,101.2,128886.9,
+N08000506,derry city and strabane,castlederg,167117.9,3,109.3,158236.9,5.6
+N08000507,derry city and strabane,caw,161537.9,3,98.0,183302.9,-11.9
+N08000508,derry city and strabane,city walls,127845.1,2,99.6,118021.3,8.3
+N08000509,derry city and strabane,claudy,232336.6,2,88.6,203596.4,14.1
+N08000510,derry city and strabane,clondermot,241028.2,2,97.6,242764.4,-0.7
+N08000511,derry city and strabane,creggan,143981.0,1,100.8,128481.5,12.1
+N08000512,derry city and strabane,creggan south,,0,100.8,133860.8,
+N08000513,derry city and strabane,culmore,282118.0,3,99.8,282075.7,0.0
+N08000514,derry city and strabane,drumahoe,195073.4,3,96.2,178837.7,9.1
+N08000515,derry city and strabane,dunnamanagh,,0,90.8,194146.7,
+N08000516,derry city and strabane,ebrington,151816.7,3,98.9,186180.4,-18.5
+N08000517,derry city and strabane,eglinton,211197.3,3,92.8,231642.0,-8.8
+N08000518,derry city and strabane,enagh,188863.7,3,95.7,192994.5,-2.1
+N08000519,derry city and strabane,finn,169647.8,2,104.5,178887.0,-5.2
+N08000520,derry city and strabane,foyle springs,,0,101.3,190758.1,
+N08000521,derry city and strabane,galliagh,,0,101.5,130655.1,
+N08000522,derry city and strabane,glenderg,,0,116.0,204439.6,
+N08000523,derry city and strabane,glenelly valley,,0,85.4,196246.9,
+N08000524,derry city and strabane,kilfennan,201982.0,3,97.2,208850.5,-3.3
+N08000525,derry city and strabane,lisnagelvin,180545.1,2,98.0,166531.5,8.4
+N08000526,derry city and strabane,madam's bank,206388.6,2,99.8,226526.6,-8.9
+N08000527,derry city and strabane,new buildings,186374.0,3,99.7,184059.8,1.3
+N08000528,derry city and strabane,newtownstewart,,0,99.5,177209.0,
+N08000529,derry city and strabane,northland,145191.9,3,100.3,143099.4,1.5
+N08000530,derry city and strabane,park,,0,82.5,203407.3,
+N08000531,derry city and strabane,shantallow,154923.3,2,100.6,149364.7,3.7
+N08000532,derry city and strabane,shantallow east,,0,100.7,227672.1,
+N08000533,derry city and strabane,sheriff's mountain,128000.0,1,102.4,181889.8,-29.6
+N08000534,derry city and strabane,sion mills,150016.3,2,101.0,158138.4,-5.1
+N08000535,derry city and strabane,skeoge,,0,102.7,241214.9,
+N08000536,derry city and strabane,slievekirk,197851.6,2,98.0,201825.4,-2.0
+N08000537,derry city and strabane,springtown,,0,101.6,182808.1,
+N08000538,derry city and strabane,strabane north,172450.1,1,101.5,162085.7,6.4
+N08000539,derry city and strabane,strabane west,117488.5,1,102.3,142466.1,-17.5
+N08000540,derry city and strabane,victoria,131128.4,3,98.9,154400.1,-15.1
+N08000601,fermanagh and omagh,ballinamallard,197754.0,2,108.7,222038.9,-10.9
+N08000602,fermanagh and omagh,belcoo and garrison,,0,135.0,255251.8,
+N08000603,fermanagh and omagh,belleek and boa,,0,122.3,230888.1,
+N08000604,fermanagh and omagh,beragh,,0,83.4,204129.2,
+N08000605,fermanagh and omagh,boho cleenish and letterbreen,,0,122.4,186229.9,
+N08000606,fermanagh and omagh,brookeborough,,0,95.2,222949.3,
+N08000607,fermanagh and omagh,camowen,207759.8,3,86.5,204518.2,1.6
+N08000608,fermanagh and omagh,castlecoole,195245.8,3,111.9,208247.8,-6.2
+N08000609,fermanagh and omagh,coolnagard,,0,88.9,178406.9,
+N08000610,fermanagh and omagh,dergmoney,192779.4,2,87.8,183444.6,5.1
+N08000611,fermanagh and omagh,derrygonnelly,,0,123.4,256602.0,
+N08000612,fermanagh and omagh,derrylin,,0,114.5,214352.8,
+N08000613,fermanagh and omagh,donagh,,0,103.1,244330.9,
+N08000614,fermanagh and omagh,dromore,,0,95.4,180230.8,
+N08000615,fermanagh and omagh,drumnakilly,,0,80.7,194674.4,
+N08000616,fermanagh and omagh,drumquin,,0,103.4,210918.4,
+N08000617,fermanagh and omagh,ederney and kesh,190712.6,2,113.6,207695.4,-8.2
+N08000618,fermanagh and omagh,erne,,0,113.6,156015.2,
+N08000619,fermanagh and omagh,fairy water,,0,93.5,263430.7,
+N08000620,fermanagh and omagh,fintona,,0,92.4,178814.7,
+N08000621,fermanagh and omagh,florence court and kinawley,,0,122.9,264953.5,
+N08000622,fermanagh and omagh,gortin,189748.0,1,87.4,204279.8,-7.1
+N08000623,fermanagh and omagh,gortrush,,0,89.9,159333.4,
+N08000624,fermanagh and omagh,irvinestown,179915.1,2,110.0,191817.3,-6.2
+N08000625,fermanagh and omagh,killyclogher,176130.1,2,87.0,190929.4,-7.8
+N08000626,fermanagh and omagh,lisbellaw,,0,109.9,219250.5,
+N08000627,fermanagh and omagh,lisnarrick,212439.2,3,114.1,231172.5,-8.1
+N08000628,fermanagh and omagh,lisnaskea,157117.2,1,105.3,168655.5,-6.8
+N08000629,fermanagh and omagh,maguiresbridge,,0,107.7,204287.0,
+N08000630,fermanagh and omagh,newtownbutler,,0,103.3,193906.5,
+N08000631,fermanagh and omagh,newtownsaville,,0,84.6,230346.1,
+N08000632,fermanagh and omagh,owenkillew,,0,76.5,223687.3,
+N08000633,fermanagh and omagh,portora,164904.8,2,114.7,181398.5,-9.1
+N08000634,fermanagh and omagh,rosslea,,0,93.1,209891.7,
+N08000635,fermanagh and omagh,rossorry,176286.9,2,115.7,216239.6,-18.5
+N08000636,fermanagh and omagh,sixmilecross,,0,75.1,225078.1,
+N08000637,fermanagh and omagh,strule,,0,88.6,147907.7,
+N08000638,fermanagh and omagh,tempo,,0,101.3,197136.6,
+N08000639,fermanagh and omagh,termon,,0,70.5,282044.0,
+N08000640,fermanagh and omagh,trillick,,0,101.6,224047.0,
+N08000701,lisburn and castlereagh,ballinderry,216532.5,3,20.3,248576.9,-12.9
+N08000702,lisburn and castlereagh,ballyhanwood,250052.3,3,7.8,255037.0,-2.0
+N08000703,lisburn and castlereagh,ballymacash,231897.2,3,11.9,242359.5,-4.3
+N08000704,lisburn and castlereagh,ballymacbrennan,262471.8,1,15.4,298572.4,-12.1
+N08000705,lisburn and castlereagh,ballymacoss,215759.3,3,13.0,199198.1,8.3
+N08000706,lisburn and castlereagh,beechill,259557.6,2,6.0,330348.2,-21.4
+N08000707,lisburn and castlereagh,blaris,197758.8,3,14.0,192622.2,2.7
+N08000708,lisburn and castlereagh,cairnshill,265929.3,3,5.8,291833.1,-8.9
+N08000709,lisburn and castlereagh,carrowreagh,262207.4,3,9.6,226221.9,15.9
+N08000710,lisburn and castlereagh,carryduff east,278255.8,3,11.5,259584.9,7.2
+N08000711,lisburn and castlereagh,carryduff west,280500.1,3,8.4,257681.9,8.9
+N08000712,lisburn and castlereagh,derryaghy,199305.3,3,8.9,209297.5,-4.8
+N08000713,lisburn and castlereagh,dromara,195062.7,2,22.0,226852.0,-14.0
+N08000714,lisburn and castlereagh,drumbo,286615.2,1,9.0,364557.4,-21.4
+N08000715,lisburn and castlereagh,dundonald,198411.4,3,8.0,211215.5,-6.1
+N08000716,lisburn and castlereagh,enler,138599.7,2,8.9,123757.6,12.0
+N08000717,lisburn and castlereagh,galwally,254831.0,3,4.4,274288.8,-7.1
+N08000718,lisburn and castlereagh,glenavy,217667.8,2,19.1,236656.3,-8.0
+N08000719,lisburn and castlereagh,graham's bridge,176348.9,3,8.3,175265.5,0.6
+N08000720,lisburn and castlereagh,harmony hill,202639.8,3,10.5,225191.7,-10.0
+N08000721,lisburn and castlereagh,hilden,124454.3,3,11.3,130913.1,-4.9
+N08000722,lisburn and castlereagh,hillhall,229187.2,3,10.8,217034.6,5.6
+N08000723,lisburn and castlereagh,hillsborough,373502.2,3,19.9,294506.4,26.8
+N08000724,lisburn and castlereagh,knockbracken,344281.7,3,7.0,336192.1,2.4
+N08000725,lisburn and castlereagh,knockmore,184263.5,3,14.2,164871.8,11.8
+N08000726,lisburn and castlereagh,lagan,258486.8,3,21.5,259079.6,-0.2
+N08000727,lisburn and castlereagh,lagan valley,140250.6,3,13.0,154864.1,-9.4
+N08000728,lisburn and castlereagh,lambeg,138305.7,3,8.9,158452.8,-12.7
+N08000729,lisburn and castlereagh,lisnagarvey,197386.7,2,12.3,189466.9,4.2
+N08000730,lisburn and castlereagh,maghaberry,244422.3,3,16.7,241764.2,1.1
+N08000731,lisburn and castlereagh,magheralave,258467.6,3,10.1,252174.9,2.5
+N08000732,lisburn and castlereagh,maze,257386.3,3,17.7,265666.8,-3.1
+N08000733,lisburn and castlereagh,moira,296372.4,3,23.6,281505.8,5.3
+N08000734,lisburn and castlereagh,moneyreagh,265713.4,3,8.2,238865.6,11.2
+N08000735,lisburn and castlereagh,newtownbreda,225648.0,3,4.9,259632.7,-13.1
+N08000736,lisburn and castlereagh,old warren,130705.8,3,13.2,134725.2,-3.0
+N08000737,lisburn and castlereagh,ravernet,430082.3,2,15.0,321209.2,33.9
+N08000738,lisburn and castlereagh,stonyford,230000.0,1,12.0,222321.0,3.5
+N08000739,lisburn and castlereagh,wallace park,234398.8,2,11.4,262314.9,-10.6
+N08000740,lisburn and castlereagh,white mountain,231362.8,3,11.1,238159.9,-2.9
+N08000801,mid and east antrim,academy,211297.9,3,38.5,263911.7,-19.9
+N08000802,mid and east antrim,ahoghill,171630.8,3,39.0,175210.2,-2.0
+N08000803,mid and east antrim,ardeevin,182683.4,3,36.8,211111.9,-13.5
+N08000804,mid and east antrim,ballee and harryville,139688.3,3,35.6,138435.3,0.9
+N08000805,mid and east antrim,ballycarry and glynn,176472.3,3,24.5,204396.9,-13.7
+N08000806,mid and east antrim,ballykeel,143580.5,3,36.0,142219.4,1.0
+N08000807,mid and east antrim,boneybefore,201212.0,3,17.2,217894.3,-7.7
+N08000808,mid and east antrim,braidwater,163446.7,2,37.4,177722.5,-8.0
+N08000809,mid and east antrim,broughshane,197726.6,3,38.8,194313.4,1.8
+N08000810,mid and east antrim,burleigh hill,197631.0,1,16.3,223650.8,-11.6
+N08000811,mid and east antrim,cairncastle,223533.4,3,31.4,255927.8,-12.7
+N08000812,mid and east antrim,carnlough and glenarm,181236.3,2,40.9,169368.5,7.0
+N08000813,mid and east antrim,castle,110169.1,3,15.2,140558.9,-21.6
+N08000814,mid and east antrim,castle demesne,107742.8,3,37.1,106822.1,0.9
+N08000815,mid and east antrim,craigyhill,126485.7,3,29.5,137803.4,-8.2
+N08000816,mid and east antrim,cullybackey,177545.3,2,42.1,168539.5,5.3
+N08000817,mid and east antrim,curran and inver,101532.3,3,28.8,138336.2,-26.6
+N08000818,mid and east antrim,fair green,125497.6,3,38.2,126271.4,-0.6
+N08000819,mid and east antrim,galgorm,258850.3,3,38.9,247116.7,4.7
+N08000820,mid and east antrim,gardenmore,121996.1,3,29.8,147768.8,-17.4
+N08000821,mid and east antrim,glenravel,184682.3,2,46.8,209860.5,-12.0
+N08000822,mid and east antrim,glenwhirry,,0,28.0,263416.5,
+N08000823,mid and east antrim,gortalee,152905.5,3,11.6,187828.9,-18.6
+N08000824,mid and east antrim,grange,,0,38.2,247221.7,
+N08000825,mid and east antrim,greenisland,257629.7,3,13.1,264244.9,-2.5
+N08000826,mid and east antrim,islandmagee,201508.8,3,27.7,226654.4,-11.1
+N08000827,mid and east antrim,kells,175098.5,3,31.9,184549.0,-5.1
+N08000828,mid and east antrim,kilroot,201614.4,3,19.9,215248.0,-6.3
+N08000829,mid and east antrim,kilwaughter,171962.5,3,24.9,188101.5,-8.6
+N08000830,mid and east antrim,kirkinriola,220000.0,1,44.1,228508.4,-3.7
+N08000831,mid and east antrim,love lane,138240.2,2,16.4,170643.3,-19.0
+N08000832,mid and east antrim,maine,,0,46.8,241216.3,
+N08000833,mid and east antrim,park,199511.7,3,38.6,199960.3,-0.2
+N08000834,mid and east antrim,portglenone,200684.6,3,45.6,199027.3,0.8
+N08000835,mid and east antrim,slemish,,0,36.3,269184.9,
+N08000836,mid and east antrim,sunnylands,107795.5,3,15.6,104596.0,3.1
+N08000837,mid and east antrim,the maidens,122153.1,3,30.6,127620.4,-4.3
+N08000838,mid and east antrim,victoria,221973.6,3,17.4,194349.4,14.2
+N08000839,mid and east antrim,whitehead south,172404.5,3,21.9,196327.9,-12.2
+N08000840,mid and east antrim,woodburn,,0,18.0,209364.2,
+N08000901,mid ulster,ardboe,,0,37.0,166701.7,
+N08000902,mid ulster,augher and clogher,,0,78.0,203114.0,
+N08000903,mid ulster,aughnacloy,176476.1,1,66.8,185099.2,-4.7
+N08000904,mid ulster,ballygawley,,0,68.6,203136.3,
+N08000905,mid ulster,ballymaguigan,185594.9,1,42.1,198032.4,-6.3
+N08000906,mid ulster,ballysaggart,144379.3,3,55.9,134959.1,7.0
+N08000907,mid ulster,bellaghy,,0,44.5,184820.8,
+N08000908,mid ulster,caledon,,0,61.8,177821.4,
+N08000909,mid ulster,castlecaulfield,217976.4,3,60.5,213740.7,2.0
+N08000910,mid ulster,castledawson,189886.1,1,47.5,174040.7,9.1
+N08000911,mid ulster,coagh,,0,45.3,177793.3,
+N08000912,mid ulster,coalisland north,179000.0,1,50.8,177662.0,0.8
+N08000913,mid ulster,coalisland south,151846.2,2,49.3,155286.3,-2.2
+N08000914,mid ulster,cookstown east,193238.2,3,52.8,146836.5,31.6
+N08000915,mid ulster,cookstown south,,0,53.4,148151.8,
+N08000916,mid ulster,cookstown west,169080.9,2,54.0,149975.5,12.7
+N08000917,mid ulster,coolshinny,237603.0,1,50.2,234169.2,1.5
+N08000918,mid ulster,donaghmore,,0,59.8,201835.1,
+N08000919,mid ulster,draperstown,194950.0,1,62.3,187585.7,3.9
+N08000920,mid ulster,fivemiletown,,0,87.2,176875.1,
+N08000921,mid ulster,glebe,189503.4,3,47.7,187232.3,1.2
+N08000922,mid ulster,killyman,198468.5,1,49.9,203087.4,-2.3
+N08000923,mid ulster,killymeal,175696.1,3,52.7,175522.1,0.1
+N08000924,mid ulster,lissan,,0,55.4,187512.2,
+N08000925,mid ulster,loughry,154215.4,1,53.9,164139.7,-6.0
+N08000926,mid ulster,lower glenshane,,0,62.4,271270.4,
+N08000927,mid ulster,maghera,180513.8,3,54.5,166316.0,8.5
+N08000928,mid ulster,moy,215000.0,1,54.0,206118.5,4.3
+N08000929,mid ulster,moygashel,134100.4,1,54.6,145882.5,-8.1
+N08000930,mid ulster,mullaghmore,158892.1,3,54.8,153811.9,3.3
+N08000931,mid ulster,oaklands,,0,62.9,194278.7,
+N08000932,mid ulster,pomeroy,,0,62.6,162755.5,
+N08000933,mid ulster,stewartstown,,0,48.6,190736.6,
+N08000934,mid ulster,swatragh,,0,59.1,217540.4,
+N08000935,mid ulster,tamlaght o'crilly,,0,52.2,196361.1,
+N08000936,mid ulster,the loup,187772.6,1,42.7,181702.6,3.3
+N08000937,mid ulster,tobermore,,0,54.3,224938.7,
+N08000938,mid ulster,town parks east,171399.3,3,46.6,151477.3,13.2
+N08000939,mid ulster,valley,,0,51.4,188831.8,
+N08000940,mid ulster,washing bay,,0,44.8,206604.9,
+N08001001,newry mourne and down,abbey,149984.8,3,54.2,129007.1,16.3
+N08001002,newry mourne and down,annalong,191704.7,3,50.7,177609.3,7.9
+N08001003,newry mourne and down,ballybot,135621.9,3,53.9,130734.8,3.7
+N08001004,newry mourne and down,ballydugan,,0,33.0,222570.4,
+N08001005,newry mourne and down,ballynahinch,169466.3,3,21.3,160307.8,5.7
+N08001006,newry mourne and down,ballyward,,0,30.1,256035.5,
+N08001007,newry mourne and down,bessbrook,169021.7,3,53.9,156899.1,7.7
+N08001008,newry mourne and down,binnian,202971.1,2,51.9,186467.2,8.9
+N08001009,newry mourne and down,burren,314931.7,2,55.7,253612.8,24.2
+N08001010,newry mourne and down,camlough,,0,58.2,192237.0,
+N08001011,newry mourne and down,castlewellan,189352.4,3,36.1,170495.8,11.1
+N08001012,newry mourne and down,cathedral,127410.7,2,33.8,147406.8,-13.6
+N08001013,newry mourne and down,crossgar and killyleagh,186075.5,3,27.6,180533.0,3.1
+N08001014,newry mourne and down,crossmaglen,,0,73.0,187197.9,
+N08001015,newry mourne and down,damolly,179583.2,3,52.4,163528.3,9.8
+N08001016,newry mourne and down,derryboy,205137.2,1,23.7,232869.9,-11.9
+N08001017,newry mourne and down,derryleckagh,,0,52.7,263779.9,
+N08001018,newry mourne and down,donard,230802.9,3,44.5,207007.1,11.5
+N08001019,newry mourne and down,drumalane,212239.6,3,55.3,181993.5,16.6
+N08001020,newry mourne and down,drumaness,235238.2,3,24.9,210236.6,11.9
+N08001021,newry mourne and down,dundrum,199404.6,2,35.6,179483.8,11.1
+N08001022,newry mourne and down,fathom,,0,58.3,200227.5,
+N08001023,newry mourne and down,forkhill,,0,63.6,215741.2,
+N08001024,newry mourne and down,hilltown,,0,47.3,228870.8,
+N08001025,newry mourne and down,kilkeel,176813.2,3,60.7,154096.3,14.7
+N08001026,newry mourne and down,kilmore,249438.4,2,20.0,249955.2,-0.2
+N08001027,newry mourne and down,knocknashinna,172945.0,3,34.0,194717.9,-11.2
+N08001028,newry mourne and down,lecale,181690.1,3,39.5,170455.3,6.6
+N08001029,newry mourne and down,lisnacree,160450.8,2,56.7,190195.2,-15.6
+N08001030,newry mourne and down,mayobridge,228988.6,1,47.4,205602.4,11.4
+N08001031,newry mourne and down,mullaghbane,,0,67.0,225974.9,
+N08001032,newry mourne and down,murlough,257643.8,3,40.6,212982.5,21.0
+N08001033,newry mourne and down,newtownhamilton,,0,63.7,165120.1,
+N08001034,newry mourne and down,quoile,223362.0,3,29.3,216665.6,3.1
+N08001035,newry mourne and down,rostrevor,216763.1,3,55.1,227742.1,-4.8
+N08001036,newry mourne and down,saintfield,232173.0,3,15.2,255081.5,-9.0
+N08001037,newry mourne and down,st. patrick's,209150.1,3,52.5,211375.3,-1.1
+N08001038,newry mourne and down,strangford,224245.8,2,35.6,216522.8,3.6
+N08001039,newry mourne and down,tollymore,,0,42.7,213434.0,
+N08001040,newry mourne and down,warrenpoint,176130.5,3,58.5,155916.3,13.0
+N08001041,newry mourne and down,whitecross,245851.1,2,52.0,200854.4,22.4
+N08001101,ards and north down,ballycrochan,265542.6,2,21.0,268765.4,-1.2
+N08001102,ards and north down,ballygowan,212194.1,3,13.4,217553.7,-2.5
+N08001103,ards and north down,ballygrainey,181725.6,3,18.3,178293.5,1.9
+N08001104,ards and north down,ballyholme,252447.3,3,20.1,275942.7,-8.5
+N08001105,ards and north down,ballymagee,236250.4,3,20.0,244421.9,-3.3
+N08001106,ards and north down,ballywalter,180821.6,3,26.9,184191.0,-1.8
+N08001107,ards and north down,bloomfield,197488.3,3,18.5,182738.1,8.1
+N08001108,ards and north down,broadway,239530.7,3,19.3,249294.9,-3.9
+N08001109,ards and north down,bryansburn,301795.8,3,17.4,295441.8,2.2
+N08001110,ards and north down,carrowdore,195044.6,3,23.3,196397.9,-0.7
+N08001111,ards and north down,castle,162976.9,3,18.1,168200.2,-3.1
+N08001112,ards and north down,clandeboye,279175.2,3,14.1,251150.5,11.2
+N08001113,ards and north down,comber north,183863.8,2,13.4,181493.1,1.3
+N08001114,ards and north down,comber south,257698.6,3,15.4,248572.9,3.7
+N08001115,ards and north down,comber west,220842.4,3,11.1,197234.8,12.0
+N08001116,ards and north down,conway square,132499.1,3,15.5,129222.6,2.5
+N08001117,ards and north down,cronstown,202306.5,3,16.7,192741.1,5.0
+N08001118,ards and north down,cultra,503924.7,3,10.7,377332.6,33.5
+N08001119,ards and north down,donaghadee,216926.0,3,25.7,191263.4,13.4
+N08001120,ards and north down,glen,236196.6,3,15.0,231470.8,2.0
+N08001121,ards and north down,gregstown,196032.0,2,16.2,182245.1,7.6
+N08001122,ards and north down,groomsport,239435.9,3,22.1,233731.0,2.4
+N08001123,ards and north down,harbour,217524.0,3,18.7,189053.1,15.1
+N08001124,ards and north down,helen's bay,370265.8,3,14.6,345645.4,7.1
+N08001125,ards and north down,holywood,338645.0,3,8.2,294948.2,14.8
+N08001126,ards and north down,kilcooley,136259.2,3,15.9,142601.6,-4.4
+N08001127,ards and north down,killinchy,312139.6,3,20.5,289302.2,7.9
+N08001128,ards and north down,kircubbin,196430.0,3,30.3,203729.9,-3.6
+N08001129,ards and north down,loughries,236013.0,3,20.5,206006.3,14.6
+N08001130,ards and north down,loughview,202781.7,3,6.9,199135.5,1.8
+N08001131,ards and north down,movilla,167159.0,3,16.6,154016.5,8.5
+N08001132,ards and north down,portaferry,174884.7,1,36.0,192152.6,-9.0
+N08001133,ards and north down,portavogie,164614.0,3,32.7,165326.2,-0.4
+N08001134,ards and north down,rathgael,213006.3,3,16.9,172730.7,23.3
+N08001135,ards and north down,rathmore,210778.2,3,15.9,216374.0,-2.6
+N08001136,ards and north down,scrabo,285768.2,3,12.3,249897.4,14.4
+N08001137,ards and north down,silverbirch,191607.9,3,19.7,185835.4,3.1
+N08001138,ards and north down,silverstream,146204.4,3,16.8,154213.8,-5.2
+N08001139,ards and north down,warren,267423.7,3,23.2,228553.1,17.0
+N08001140,ards and north down,west winds,148760.2,2,15.6,149311.2,-0.4

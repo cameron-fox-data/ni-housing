@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+# large downloads; wards.py fetches them again
+data/raw/census/
+data/raw/ward/
+data/raw/geo/
